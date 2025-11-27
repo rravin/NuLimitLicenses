@@ -47,5 +47,13 @@
     "created_ts": 1764257332,
     "expire_ts": 1772033332,
     "device_id": "2e4aaa99515a8daf"
+},
+  {
+    "user": "Us9wu2hjwjwj",
+    "code": "NL-ST8Y-2B4G",
+    "days": 90,
+    "created_ts": 1764258054,
+    "expire_ts": 1772034054,
+    "device_id": "121283d2caa4399b"
 }
 ]
