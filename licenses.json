@@ -151,5 +151,13 @@
     "created_ts": 1764278902,
     "expire_ts": 1772054902,
     "device_id": "c69c93d7ea5261fa"
+},
+  {
+    "user": "𝗔𝗥𝗦𝗛𝗜𝗔",
+    "code": "NL-ML8M-ZEV9",
+    "days": 90,
+    "created_ts": 1764281684,
+    "expire_ts": 1772057684,
+    "device_id": "93b27a0bbe427102"
 }
 ]
