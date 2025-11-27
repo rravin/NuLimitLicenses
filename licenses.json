@@ -39,5 +39,13 @@
     "created_ts": 1764251359,
     "expire_ts": 1772027359,
     "device_id": "6feb4d1cb05a0c40"
+},
+  {
+    "user": "🇮🇷 امیرحسام 🇮🇷",
+    "code": "NL-9JWM-KNM9",
+    "days": 90,
+    "created_ts": 1764257332,
+    "expire_ts": 1772033332,
+    "device_id": "2e4aaa99515a8daf"
 }
 ]
