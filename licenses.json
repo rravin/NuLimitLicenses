@@ -23,5 +23,13 @@
     "created_ts": 1764249728,
     "expire_ts": 1772025728,
     "device_id": "a734557254a18fb2"
+},
+  {
+    "user": "@Amirmoham_ad",
+    "code": "NL-E5Q7-C2KF",
+    "days": 90,
+    "created_ts": 1764250742,
+    "expire_ts": 1772026742,
+    "device_id": "d802ecfb0298c2b6"
 }
 ]
