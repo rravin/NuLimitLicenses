@@ -295,5 +295,13 @@
     "created_ts": 1764358335,
     "expire_ts": 1772134335,
     "device_id": "241f19cf8c6bc07c"
+},
+  {
+    "user": "mamadhz79",
+    "code": "NL-TECG-7ETN",
+    "days": 90,
+    "created_ts": 1764358419,
+    "expire_ts": 1772134419,
+    "device_id": "faf5991c9d8d81aa"
 }
 ]
