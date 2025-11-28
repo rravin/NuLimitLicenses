@@ -231,5 +231,13 @@
     "created_ts": 1764341069,
     "expire_ts": 1772117069,
     "device_id": "9f58c77ef26dc4e5"
+},
+  {
+    "user": "𝐒𝐚𝐞𝐞𝐝𝐞",
+    "code": "NL-DJGF-7B36",
+    "days": 90,
+    "created_ts": 1764342658,
+    "expire_ts": 1772118658,
+    "device_id": "be1a24a0a8ea47f8"
 }
 ]
