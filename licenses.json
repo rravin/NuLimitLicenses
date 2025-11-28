@@ -279,5 +279,13 @@
     "created_ts": 1764355665,
     "expire_ts": 1772131665,
     "device_id": "2462efd1407418b3"
+},
+  {
+    "user": "xuknx",
+    "code": "NL-WC6U-F5PE",
+    "days": 90,
+    "created_ts": 1764356088,
+    "expire_ts": 1772132088,
+    "device_id": "f5996206d8773227"
 }
 ]
