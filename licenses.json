@@ -271,5 +271,13 @@
     "created_ts": 1764355190,
     "expire_ts": 1772131190,
     "device_id": "0970ff2c28efdae9"
+},
+  {
+    "user": "مسافر غریب",
+    "code": "NL-2B7G-X3K4",
+    "days": 90,
+    "created_ts": 1764355665,
+    "expire_ts": 1772131665,
+    "device_id": "2462efd1407418b3"
 }
 ]
