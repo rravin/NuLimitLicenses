@@ -559,6 +559,14 @@
     "created_ts": 1764791794,
     "expire_ts": 1772567794,
     "device_id": "1736a9a6d7e63839"
+},
+  {
+    "user": "حساب کاربری حذف شده",
+    "code": "NL-XKS9-SHU5",
+    "days": 90,
+    "created_ts": 1764792598,
+    "expire_ts": 1772568598,
+    "device_id": "1b1e5f03ecd22f9e"
 }
 ]
   
