@@ -655,6 +655,14 @@
     "created_ts": 1764879788,
     "expire_ts": 1772655788,
     "device_id": "2621e374de118d2c"
+},
+  {
+    "user": "Ariya Azadmehr۲",
+    "code": "NL-XFMD-DHK6",
+    "days": 90,
+    "created_ts": 1764880433,
+    "expire_ts": 1772656433,
+    "device_id": "48164f923b317df0"
 }
 ]
   
