@@ -807,6 +807,14 @@
     "created_ts": 1766567559,
     "expire_ts": 1774343559,
     "device_id": "4dab58bd29e1971c"
+},
+  {
+    "user": "شبگرد تنها",
+    "code": "NL-GBPG-SMWV",
+    "days": 90,
+    "created_ts": 1766568580,
+    "expire_ts": 1774344580,
+    "device_id": "bad2fff01b280dd4"
 }
 ]
   
